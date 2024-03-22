@@ -19,14 +19,9 @@ Features
 
 Setup Instructions
 
-    Clone the repository: git clone https://github.com/your_username/task-management-api.git
-    Install dependencies: npm install
-    Configure environment variables:
-        JWT_SECRET: Secret key for JWT token generation.
-        TWILIO_ACCOUNT_SID: Twilio account SID for voice calling.
-        TWILIO_AUTH_TOKEN: Twilio auth token for voice calling.
-        TWILIO_PHONE_NUMBER: Twilio phone number for sending voice calls.
-    Start the server: npm start
+    Clone the repository: git clone https://github.com/pampamondalIIT/OpenInApp_Assignment.git
+    Install dependencies
+    Start the server: node intro.js
 
 API Documentation
 
