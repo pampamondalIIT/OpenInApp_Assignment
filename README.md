@@ -23,22 +23,18 @@ Setup Instructions
     Install dependencies
     Start the server: node intro.js
 
-API Documentation
 
-Detailed API documentation and usage examples are provided in the API_DOCS.md file.
-Demo
 
-For a quick demonstration of the project, refer to the video demonstration provided in the demo folder.
+For a quick demonstration of the project, refer to the video demonstration provided in the google drive link.
 Technologies Used
 
     Node.js
     Express.js
-    MongoDB
     Twilio API
 
 Contributors
 
-    Your Name
+Pampa Sow Mondal
 
 
 
