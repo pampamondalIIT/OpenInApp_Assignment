@@ -21,7 +21,7 @@ Setup Instructions
 
     Clone the repository: git clone https://github.com/pampamondalIIT/OpenInApp_Assignment.git
     Install dependencies
-    Start the server: node intro.js
+    Start the server: node assignment.js
 
 
 
